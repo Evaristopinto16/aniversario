@@ -4,7 +4,7 @@
     hour = minute*60,
     day = hour*24;
 
-    let birthday = "march 2, 2023 00:00:00",
+    let birthday = "march 6, 2023 00:00:00",
 
     countdown = new Date(birthday).getTime(),
     x = setInterval(function(){
